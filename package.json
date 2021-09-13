@@ -34,7 +34,7 @@
     "homepage": "https://github.com/jagenjo/litegraph.js#readme",
     "devDependencies": {
         "express": "^4.17.1",
-        "google-closure-compiler": "^20171112.0.0",
+        "google-closure-compiler": "^20190528.1.0",
         "grunt": "^1.1.0",
         "grunt-cli": "^1.2.0",
         "grunt-closure-tools": "^1.0.0",
