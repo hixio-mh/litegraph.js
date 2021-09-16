@@ -39,7 +39,7 @@
         "grunt-cli": "^1.2.0",
         "grunt-closure-tools": "^1.0.0",
         "grunt-contrib-concat": "^1.0.1",
-        "nodemon": "^1.19.4",
+        "nodemon": "^2.0.3",
         "rimraf": "^2.7.1"
     }
 }
